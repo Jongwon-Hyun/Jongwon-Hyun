@@ -1,6 +1,4 @@
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Welcom To Neverland&fontSize=70" />
-<br>
 <br>
 <br>
 
@@ -11,4 +9,4 @@
 <br>
 <br>
 <a href="https://github.com/jongwon-hyun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jongwon-hyun"/></a>         
-</div>
+
