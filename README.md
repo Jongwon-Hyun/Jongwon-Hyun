@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Welcom To Neverland&fontSize=70" />
+<br>
+<br>
+<br>
 
-<!--
-**jongwon-hyun/jongwon-hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon-hyun&show_icons=true&theme=dracula&hide=issues)](https://github.com/jongwon-hyun) 
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-hyun&layout=compact&langs_count=8&theme=dracula)](https://github.com/jongwon-hyun)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<a href="https://github.com/jongwon-hyun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jongwon-hyun"/></a>         
+</div>
