@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongwon-hyun&show_icons=true&theme=dracula&hide=issues)](https://github.com/jongwon-hyun) 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-hyun&layout=compact&langs_count=8&theme=dracula)](https://github.com/jongwon-hyun)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-hyun&layout=compact)](https://github.com/jongwon-hyun)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=otomebass)](https://solved.ac/otomebass)
 <br>
