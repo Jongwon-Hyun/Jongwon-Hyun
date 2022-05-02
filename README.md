@@ -7,8 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-hyun&layout=compact&theme=dracula)](https://github.com/jongwon-hyun)
 
   
-<a href="https://github.com/jongwon-hyun">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=otomebass&theme=dark" width="400"/>
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=otomebass&theme=nord)](https://leetcode.com/otomebass)
   
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=otomebass)](https://solved.ac/otomebass)
